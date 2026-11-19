@@ -1,0 +1,9 @@
+package com.PriceFeedApp.dto;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter @Setter
+public class FeedHealthConvertCriteriaDTO {
+
+}
